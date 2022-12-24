@@ -7,10 +7,20 @@ domains:
   zone: touchtechnology.app
 - domain: touchcup.asia
   type: ALIAS
+  wildcard: true
   zone: touchcup.asia
 - domain: toucheuros.com
   type: ALIAS
+  wildcard: true
   zone: toucheuros.com
+- domain: touchtechnology.ltd.uk
+  type: ALIAS
+  wildcard: true
+  zone: touchtechnology.ltd.uk
+- domain: sydneymets.com.au
+  type: ALIAS
+  wildcard: true
+  zone: sydneymets.com.au
 name: redirect
 region: syd
 services:
