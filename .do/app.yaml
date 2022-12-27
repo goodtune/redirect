@@ -21,6 +21,22 @@ domains:
   type: ALIAS
   wildcard: true
   zone: sydneymets.com.au
+- domain: afssecurity.com.au
+  type: ALIAS
+  wildcard: true
+  zone: afssecurity.com.au
+- domain: afssolutions.com.au
+  type: ALIAS
+  wildcard: true
+  zone: afssolutions.com.au
+- domain: afstraining.com.au
+  type: ALIAS
+  wildcard: true
+  zone: afstraining.com.au
+- domain: securetours.com.au
+  type: ALIAS
+  wildcard: true
+  zone: securetours.com.au
 name: redirect
 region: syd
 services:
